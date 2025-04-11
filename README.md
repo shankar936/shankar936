@@ -2,7 +2,7 @@
 ## As a Data Analyst,I utilize my skills and work on datasets.
 <!--
 **shankar936/shankar936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Skills : Python,SQL,POWER BI,Excel,Analyzing data
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Sql Projects
