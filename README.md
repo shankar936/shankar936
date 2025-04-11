@@ -1,5 +1,5 @@
 ## Hi there 👋I'm Shankar
-## A Passionate Data Analyst and Improving my skills
+## As a Data Analyst,I utilize my skills and work on datasets.
 <!--
 **shankar936/shankar936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
