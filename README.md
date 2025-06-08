@@ -1,6 +1,6 @@
 ## Hi there 👋I'm Shankar
 ## As a Data Analyst,I utilize my skills and work on datasets.
-## Skills : Python,SQL,POWER BI,Excel,Analyzing data
+## Skills : Python,SQL ,POWER BI ,Ms Excel, Data Cleaning
 <!--
 **shankar936/shankar936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Skills : Python,SQL,POWER BI,Excel,Analyzing data
