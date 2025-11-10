@@ -64,7 +64,7 @@ Bharath Institute of Higher Education and Research
 
 ## 📫 Connect With Me  
 - 📧 Email: [shankarmadasu7777@gmail.com](mailto:shankarmadasu7777@gmail.com)  
-- 💼 LinkedIn: *Add your LinkedIn link here*  
+- 💼 LinkedIn: https://wwwlinkedin.com/in/shankar-m-04445b257/ 
 - 🌐 GitHub: [github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)
 
 ---
