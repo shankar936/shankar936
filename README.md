@@ -13,9 +13,10 @@ I am also skilled in software development fundamentals and enjoy combining analy
 ## 🛠️ Technical Skills  
 
 **Programming & Data Tools:**  
-- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)  
+- Python (NumPy, Pandas, Matplotlib, Seaborn)  
 - SQL (MySQL, PostgreSQL)  
-- Power BI, Excel  
+- Power BI, Excel
+- Java Programming Language 
 
 **Data Concepts:**  
 - Data Cleaning, Transformation, and Visualization  
